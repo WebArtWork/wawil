@@ -1,0 +1,26 @@
+{
+	"name": "wawicon",
+	"keywords": [
+		"framework",
+		"icon",
+		"waw"
+	],
+	"version": "1.0.0",
+	"license": "MIT",
+	"repository": "WebArtWork/wawicon",
+	"author": {
+		"name": "Honchar Denys",
+		"email": "crackeraki@gmail.com",
+		"url": "https://github.com/CrackerakiUA"
+	},
+	"contributors": [],
+	"engines": {
+		"node": ">=14.0.0"
+	},
+	"main": "./index.js",
+	"bin": {
+		"wawicon": "index.js"
+	},
+	"preferGlobal": "true",
+	"dependencies": {}
+}
