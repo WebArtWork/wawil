@@ -1,0 +1,61 @@
+{
+  "_from": "waw",
+  "_id": "waw@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-pNplt6WuIanSyJErL3InMr7g0miYJ0HA2j0pRFXdeI5Oa31xZdrUbjb9lg7/SrWjjnA7PmOG1mCF6qNpyaR5kA==",
+  "_location": "/waw",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "waw",
+    "name": "waw",
+    "escapedName": "waw",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/waw/-/waw-1.2.4.tgz",
+  "_shasum": "91c41a112f8555871234a7a85f5fbf58488c5214",
+  "_spec": "waw",
+  "_where": "C:\\Users\\Pole\\Desktop",
+  "author": {
+    "name": "Honchar Denys",
+    "email": "crackeraki@gmail.com",
+    "url": "https://github.com/CrackerakiUA"
+  },
+  "bin": {
+    "waw": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/WebArtWork/waw/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {
+    "gitty": "^3.7.1",
+    "nodemon": "^2.0.2"
+  },
+  "deprecated": false,
+  "description": "[waw](https://webart.work) is the open-source web, mobile and desktop app development framework that makes it easy to\r build top quality web apps with web technologies.",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "homepage": "https://github.com/WebArtWork/waw#readme",
+  "keywords": [
+    "framework",
+    "waw"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "waw",
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebArtWork/waw.git"
+  },
+  "version": "1.2.4"
+}
