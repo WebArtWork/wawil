@@ -19,7 +19,7 @@
     },
     "main": "./index.js",
     "bin": {
-        "wawicon": "index.js"
+        "wawil": "index.js"
     },
     "preferGlobal": true,
     "dependencies": {
